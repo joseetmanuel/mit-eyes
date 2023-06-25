@@ -2,11 +2,11 @@
 
 ## Description of the project: ##
 
-Ejercicio para detectar el movimiento del mouse
+Ejercicio para detectar el movimiento del mouse, el ejercio detecta donde esta el puntero del mouse y con el css va moviendo "los ojos" ademas se agrego un segundo ojo para duplicar la funcionalidad y se agrego el for para los ojos así que se podría agregar un tercer ojo o cuarto...
 
 ## How to Run: ##
 
-Solo descargar y correr index.html
+Solo descargar y correr index.html (se puede abrir directamente desde el explorador)
 
 ## Roadmap of future improvements: ##
 Que corran los dos ojos
